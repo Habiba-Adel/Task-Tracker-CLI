@@ -1,6 +1,6 @@
 # 📝 Task Tracker CLI
 
-A simple yet powerful **Command-Line Interface (CLI)** tool to manage your daily tasks. Add to-dos, track progress, mark tasks as completed, and list them by status — all with persistent local storage in a JSON file.
+A simple yet powerful **Command-Line Interface (CLI)** tool to manage your daily tasks. Add to-dos, track progress, mark tasks as completed, and list them by status all with persistent local storage in a JSON file.
 
 Built with **vanilla JavaScript** (no external dependencies).
 
@@ -28,7 +28,7 @@ node app.js
 ## 💻 Usage
 After running node app.js, you'll enter the interactive CLI with the prompt:
 ``` bash
-texthabiba-task-cli$
+habiba-task-cli$
 ```
 
 ## 🛠️ Available Commands
