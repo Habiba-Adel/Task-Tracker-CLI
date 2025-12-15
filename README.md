@@ -74,4 +74,4 @@ Contributions, issues, and feature requests are welcome!
 Feel free to check the issues page or submit a pull request.
 Suggestions for new features are highly appreciated!
 
-## Made vy me Habiba Adel ❤️ 
+## Made by me Habiba Adel ❤️ 
